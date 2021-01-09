@@ -18,3 +18,5 @@ dependencies {
 	implementation 'com.google.code.gson:gson:2.8.6'
 	implementation "net.glasslauncher:commons:1.0"
 }
+
+build {}
