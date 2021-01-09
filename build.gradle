@@ -1,0 +1,20 @@
+plugins {
+    id 'java'
+}
+
+
+group 'net.glasslauncher'
+version '1.0'
+
+repositories {
+    mavenCentral()
+	jcenter()
+	maven {
+		url "https://maven.glass-launcher.net/repo/"
+	}
+}
+
+dependencies {
+	implementation 'com.google.code.gson:gson:2.8.6'
+	implementation "net.glasslauncher:commons:1.0"
+}
