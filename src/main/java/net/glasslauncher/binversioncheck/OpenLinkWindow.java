@@ -1,4 +1,4 @@
-package net.glasslauncher.binversionchecker;
+package net.glasslauncher.binversioncheck;
 
 import javax.swing.JEditorPane;
 import javax.swing.JLabel;
